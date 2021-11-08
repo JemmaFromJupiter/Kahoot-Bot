@@ -69,8 +69,6 @@ process.setMaxListeners(Number.POSITIVE_INFINITY)
 function ads() {
     console.clear()
     console.log("==================")
-    console.log("Kahoot-Bot-Spammer")
-    console.log("Made by ZaWarudo1")
     console.log("==================\n")
 }
 ads()
